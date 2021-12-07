@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo(a)! 👋
 
 
-- 👩🏻‍🎓 Sou formada em Administração.
-- 👩🏻‍💻 Estou estudando UI/UX Deseign, HTML5, CSS3, JavaScript, Vue.js e React. 
+- 👩🏻‍🎓 Formada em Administração.
+- 👩🏻‍💻 Possuo conhecimentos em UI/UX Deseign, HTML5, CSS3, JavaScript, Vue.js e React. 
 - 🎧 Meu hobby é ouvir músicas eletrônicas.
 
 <div align="center">
