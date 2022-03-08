@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍🎓 Formada em Administração.
-- 👩🏻‍💻 Possuo conhecimentos em UI/UX Deseign, HTML5, CSS3, JavaScript, Vue.js e React. 
+- 👩🏻‍💻 Possuo conhecimentos em UI/UX Design, HTML5, CSS3, JavaScript, Vue.js e React. 
 - 🎧 Meu hobby é ouvir músicas eletrônicas.
 
 <div align="center">
