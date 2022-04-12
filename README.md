@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a)! 👋
 
 
-- 👩🏻‍🎓 Formada em Administração.
+- 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 👩🏻‍💻 Possuo conhecimentos em UI/UX Design, HTML5, CSS3, JavaScript, Vue.js e React. 
 - 🎧 Meu hobby é ouvir músicas eletrônicas.
 
