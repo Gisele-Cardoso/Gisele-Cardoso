@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 👩🏻‍💻 Possuo conhecimentos em UI/UX Design, HTML5, CSS3, JavaScript, Vue.js e React. 
+- 👩🏻‍💻 Possuo conhecimentos em UI/UX Design, HTML5, CSS3, JavaScript e React. 
 - 🎧 Meu hobby é ouvir músicas eletrônicas.
 
 <div align="center">
